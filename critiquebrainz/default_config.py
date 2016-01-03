@@ -50,5 +50,7 @@ MUSICBRAINZ_CLIENT_ID = ""
 MUSICBRAINZ_CLIENT_SECRET = ""
 
 # mbspotify
-MBSPOTIFY_BASE_URI = None
-MBSPOTIFY_ACCESS_KEY = None
+# Server with Spotify mappings
+# https://github.com/metabrainz/mbspotify
+MBSPOTIFY_BASE_URI = "http://mbspotify.musicbrainz.org/"
+#MBSPOTIFY_ACCESS_KEY = ""
